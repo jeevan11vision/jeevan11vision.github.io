@@ -38,31 +38,31 @@ redirect_from:
     * optimized license plate localization and OCR pipeline
 
 ## Skills
-* Programming Language 
+* **Programming Language** 
   * Python (Advanced), C, C++, SQL
 
   
-* Deep Learning 
+* **Deep Learning** 
   * PyTorch (Advanced), TensorFlow (Advanced), captum, tensorboard
 
 
-* Machine Learning 
+* **Machine Learning** 
   * scikit-Learn, NumPy, pandas, matplotlib, seaborn, MLflow
 
 
-* Image Processing 
+* **Image Processing** 
   * OpenCV, scikit-image, augmentor
 
 
-* Natural Language Processing 
+* **Natural Language Processing** 
   * NLTK, spaCy, huggingface - transformers
 
 
-* Time Series Forecasting 
+* **Time Series Forecasting** 
   * statsmodels
 
 
-* Miscellaneous 
+* **Miscellaneous** 
   * LaTeX, aws, git, Linux
 
 
