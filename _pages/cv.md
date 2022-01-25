@@ -11,8 +11,8 @@ redirect_from:
 
 ## Education
 * Bachelor’s Degree in Computer Engineering, Nov 2015 — Sep 2019
-  * Pulchowk Campus, Institute of Engineering, Tribhuvan University Lalitpur, Nepal
-  * **Courses**: Artificial Intelligence, Data Mining, Big Data, Mathematics (Calculus, Probability, Statistics), Programming (C, C++)
+  * Pulchowk Campus, Institute of Engineering, Tribhuvan University, Nepal
+  * **Courses**: Artificial Intelligence, Data Mining, Big Data, Mathematics (Linear Algebra, Calculus, Probability, Statistics), Programming (C, C++)
   * **Final Year Project**: Nepali License Plate Recognition
   * **Minor Project**: Online Auction System with Recommendation Engine
 
