@@ -74,7 +74,6 @@ redirect_from:
 ## Service and Leadership
 * Jan 2019, **LOCUS AI Fellowship**, Mentor
   * trained a group of 30 students on basic ML concepts like decision tree, KNN, linear and logistic regression, regularization, SVM, fully connected neural network, and CNN
-  * introduced attendees with basic ML libraries and gave project demos on Iris classification, scratch NumPy implementation of two-layered neural network and Fashion-MNIST image classification
 
 
 * 2018, **Society of Kaski Engineering Students**, Secretary
