@@ -1,20 +1,10 @@
 ---
-title: "Teaching experience 1"
+title: "[Mathematics For AI](https://fusemachines.com/ai-education/for-engineers/)"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+venue: "Herald College, Computer Science"
+date: Jan 2021 — Jun 2021
+location: "Kathmandu, Nepal"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+Taught a comprehensive foundation [Mathematics course for AI](https://fusemachines.com/ai-education/for-engineers/), covering Linear Algebra, Calculus, Probability and Statistics and Information Theory with several assignments and projects

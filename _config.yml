@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Jeevan Thapa"
 title_separator          : "-"
 name                     : &name "Jeevan Thapa"
-description              : &description "Machine Learning Engineer at Fusemachines"
+description              : &description "Computer Science Ph.D. Student"
 url                      : https://jeevan11vision.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "jeevan11vision/jeevan11vision.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Jeevan Thapa"
   avatar           : "jeevan_latest.png"
-  bio              : "Machine Learning Engineer"
-  location         : "Fusemachines, Kathmandu, Nepal"
+  bio              : "Computer Science Ph.D. Student"
+  location         : "Rochester, New York"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            : "jeevanthapa9111@gmail.com"
+  email            : "jt4812@g.rit.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "jeevan11vision"
+  github           : "jeevan4812"
   google_plus      :
   keybase          :
   instagram        :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "jeevan11vision"
+  twitter          : "jeevan4812"
   vine             :
   weibo            :
   xing             :
