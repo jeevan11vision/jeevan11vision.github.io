@@ -9,6 +9,11 @@ redirect_from:
 
 {% include base_path %}
 
+---
+You can access my [CV](https://jeevan11vision.github.io/files/CV.pdf).
+
+---
+
 ## Education
 * Aug 2022 — Present: **Computing and Information Science, Ph.D.**
   * Rochester Institute of Technology Rochester, U.S.A. 
