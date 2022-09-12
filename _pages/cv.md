@@ -16,7 +16,7 @@ You can access my [CV](https://jeevan11vision.github.io/files/CV.pdf).
 
 ## Education
 * Aug 2022 — Present: **Computing and Information Science, Ph.D.**
-  * Rochester Institute of Technology Rochester, U.S.A. 
+  * Rochester Institute of Technology, Rochester, U.S.A. 
   * **Advisor**: [Dr. Rui Li, Lab of Use-inspired Computational Intelligence (LUCI)](https://ruililuci.com//) 
   * Statistical Machine Learning with applications in Computational Biology
 
@@ -28,11 +28,11 @@ You can access my [CV](https://jeevan11vision.github.io/files/CV.pdf).
 
 ## Work Experience
 * Aug 2022 — Present: **Graduate Research Assistant** 
-  * Rochester Institute of Technology Rochester, U.S.A. 
+  * Rochester Institute of Technology, Rochester, U.S.A. 
   * Researching in the field of Probabilistic Machine Learning at Lab of Use-inspired Computational Intelligence
   
 * Sep 2019 — Jun 2022: **Machine Learning Engineer**
-  * Fusemachines Kathmandu, Nepal 
+  * Fusemachines, Kathmandu, Nepal 
   * **Industry Projects** - led and collaborated in designing the project architecture and implementing and deploying
   deep learning models for four projects 
   * **fuse|ai Course creation** - collaborated in the design and creation of course materials (reading material, quiz,
@@ -40,10 +40,10 @@ You can access my [CV](https://jeevan11vision.github.io/files/CV.pdf).
   • involved in taking interviews and trainings for new hires, and advisor for computer vision projects
 
 * Jan 2019 to Jun 2019: **AI Intern**
-  * Leapfrog Technology Kathmandu, Nepal
-    * trained on face recognition system with face detection, point-based face-alignment, face-embedding with Siamese network,
-    and KNN classifier on top
-    * experimented with multiple standard CNN architecture for license plate localization with different losses
+  * Leapfrog Technology, Kathmandu, Nepal
+  * trained on face recognition system with face detection, point-based face-alignment, face-embedding with Siamese network,
+  and KNN classifier on top
+  * experimented with multiple standard CNN architecture for license plate localization with different losses
 
 ## Skills
 * **Programming Language** 

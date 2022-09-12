@@ -6,12 +6,12 @@ author_profile: true
 ---
 
 ###  Human Trafficking Recognition from Escort Ads and Inter-Ad Matching
-- (Team Lead) designed the machine learning pipeline architecture and set up data annotation pipeline
+- **(Team Lead)** designed the machine learning pipeline architecture and set up data annotation pipeline
 -  implemented similar image search with custom contrastive loss, trained models for image-based and text-based
 trafficking recognition, NER-based social handle extraction
 
 ### Analysis of Radio Panelists Data
-- (Team Lead) conducted analysis on the effect of song quality, commercial length and part of the day in the
+- **(Team Lead)** conducted analysis on the effect of song quality, commercial length and part of the day in the
 panelists with custom metrics, and statistical tests to identify quality of songs
 - prepared data pipeline to curate and add additional features in the dumped data
 
