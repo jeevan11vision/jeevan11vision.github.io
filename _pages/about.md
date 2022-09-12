@@ -15,4 +15,9 @@ I am a first year Ph.D. student at Golisano College of Computing and Information
 * **Machine Learning**: Statistical Machine Learning, Self-Supervised Learning, Generative Modeling
 * **Computer Vision**: Object Detection, Segmentation, Re-identification, Tracking, Action Recognition
 
+---
+You can access my [CV](https://jeevan11vision.github.io/files/CV.pdf).
+
+---
+
 ### News
