@@ -18,7 +18,7 @@ author_profile: true
   • involved in taking interviews and trainings for new hires, and advisor for computer vision projects
 
 ### "Mathematics for AI" Instructor 
-  * fuse|ai, Herald College, Kathmandu,Nepal (Jan 2021 — Jun 2021)  
+  * fuseAI, Herald College, Kathmandu, Nepal (Jan 2021 — Jun 2021)  
   * taught an undergraduate course, covering Linear Algebra, Calculus, Probability and Statistics and Information Theory with several assignments and projects
 
 ### AI Intern
