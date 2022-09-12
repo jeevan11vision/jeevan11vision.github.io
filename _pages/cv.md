@@ -17,7 +17,7 @@ You can access my [CV](https://jeevan11vision.github.io/files/CV.pdf).
 ## Education
 * Aug 2022 — Present: **Computing and Information Science, Ph.D.**
   * Rochester Institute of Technology Rochester, U.S.A. 
-  * **Advisor**: Dr. Rui Li, Lab of Use-inspired Computational Intelligence (LUCI) 
+  * **Advisor**: [Dr. Rui Li, Lab of Use-inspired Computational Intelligence (LUCI)](https://ruililuci.com//) 
   * Statistical Machine Learning with applications in Computational Biology
 
 * Nov 2015 — Sep 2019: **Bachelor’s Degree in Computer Engineering** 

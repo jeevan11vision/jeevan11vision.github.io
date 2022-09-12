@@ -1,3 +1,10 @@
+---
+layout: archive
+title: "Projects"
+permalink: /projects/
+author_profile: true
+---
+
 ###  Human Trafficking Recognition from Escort Ads and Inter-Ad Matching
 - (Team Lead) designed the machine learning pipeline architecture and set up data annotation pipeline
 -  implemented similar image search with custom contrastive loss, trained models for image-based and text-based
