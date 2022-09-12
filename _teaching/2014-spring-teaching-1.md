@@ -3,7 +3,7 @@ title: "[Mathematics For AI](https://fusemachines.com/ai-education/for-engineers
 collection: teaching
 type: "Undergraduate course"
 venue: "Herald College, Computer Science"
-date: Jan 2021 — Jun 2021
+date: 01/01/2021
 location: "Kathmandu, Nepal"
 ---
 
