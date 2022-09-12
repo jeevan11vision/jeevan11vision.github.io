@@ -23,7 +23,7 @@ frames to identify the type of waste and the intent of the person to throw in th
 - feasibility test on the use of AutoEncoder-based semi-supervised learning for network anomaly detection using
 session data from pcap files
 
-### Nepali License Plate Recognition IOE, Tribhuvan University
+### Nepali License Plate Recognition
 - designed and implemented license plate recognition system targeted for Nepali license plates, involving three
 models - vehicle detection, license plate localization (ResNet-18), and a Nepali character-based OCR
 - created a license plate localization dataset for Nepali license plates by manually annotating 8000 vehicle images

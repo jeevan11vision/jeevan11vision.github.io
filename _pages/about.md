@@ -21,3 +21,9 @@ You can access my [CV](https://jeevan11vision.github.io/files/CV.pdf).
 ---
 
 ### News
+* (Aug 2022) Joined RIT as a Computer Science Ph.D. student
+* (Jan 2022) Promoted to Machine Learning Engineer Level III at Fusemachines
+* (Jan 2021) Taught an undergraduate course "Mathematics for AI", containing Linear Algebra, Multivariate Calculus, Probability, Statistics and Information Theory
+* (Jan 2021) Received promotion to Machine Learning Engineer Level II at Fusemachines
+* (Sep 2019) Joined Fusemachines as a Machine Learning Engineer Associate
+* (Jan 2019) Joined Leapfrog Tech. as AI intern for 6 months
