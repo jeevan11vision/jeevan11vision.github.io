@@ -10,40 +10,43 @@ redirect_from:
 {% include base_path %}
 
 ## Education
-* Bachelor’s Degree in Computer Engineering, Nov 2015 — Sep 2019
+* Aug 2022 — Present: **Computing and Information Science, Ph.D.**
+  * Rochester Institute of Technology Rochester, U.S.A. 
+  * **Advisor**: Dr. Rui Li, Lab of Use-inspired Computational Intelligence (LUCI) 
+  * Statistical Machine Learning with applications in Computational Biology
+
+* Nov 2015 — Sep 2019: **Bachelor’s Degree in Computer Engineering** 
   * Pulchowk Campus, Institute of Engineering, Tribhuvan University, Nepal
   * **Courses**: Artificial Intelligence, Data Mining, Big Data, Mathematics (Linear Algebra, Calculus, Probability, Statistics), Programming (C, C++)
   * **Final Year Project**: Nepali License Plate Recognition
   * **Minor Project**: Online Auction System with Recommendation Engine
 
 ## Work Experience
-* Sep 2019 to Present: **Machine Learning Engineer**
-  * Fusemachines, Nepal
-  * **Projects**:
-    * **(Current) Sex Trafficking Recognition from Escort Ads and Inter-Ad Matching** - working on image trafficking tags,
-    multi-domain learning (text and image) for trafficking recognition, and similar image search and face based person matching
-    * **Action Recognition Project** - built custom object detection architecture by fusing SSD, mobilenet architecture and focal loss,
-    and fused across frames to identify the type of waste and the intent of person to throw in the dustbin
-    * **2D X-ray Images to 3D CT Scan Estimation** - worked on articulation localization, registration and tuning conversion pipeline
-    * **Session-based Network Intrusion Detection System** - feasibility test on the use of AutoEncoder based semi-supervised learning
-    for network anomaly detection
-    * **FuseAI Course Creation** - collaborated in design and creation of course materials (reading material, quiz, assignment, project)
-    for Computer Vision, Natural Language Processing (BERT) and Time Series Analysis
+* Aug 2022 — Present: **Graduate Research Assistant** 
+  * Rochester Institute of Technology Rochester, U.S.A. 
+  * Researching in the field of Probabilistic Machine Learning at Lab of Use-inspired Computational Intelligence
   
+* Sep 2019 — Jun 2022: **Machine Learning Engineer**
+  * Fusemachines Kathmandu, Nepal 
+  * **Industry Projects** - led and collaborated in designing the project architecture and implementing and deploying
+  deep learning models for four projects 
+  * **fuse|ai Course creation** - collaborated in the design and creation of course materials (reading material, quiz,
+  assignment, project) for Computer Vision, Natural Language Processing (BERT), and Time Series Analysis
+  • involved in taking interviews and trainings for new hires, and advisor for computer vision projects
 
 * Jan 2019 to Jun 2019: **AI Intern**
   * Leapfrog Technology Kathmandu, Nepal
     * trained on face recognition system with face detection, point-based face-alignment, face-embedding with Siamese network,
     and KNN classifier on top
-    * optimized license plate localization and OCR pipeline
+    * experimented with multiple standard CNN architecture for license plate localization with different losses
 
 ## Skills
 * **Programming Language** 
-  * Python (Advanced), C, C++, SQL
+  * Python, C, C++, SQL
 
   
 * **Deep Learning** 
-  * PyTorch (Advanced), TensorFlow (Advanced), captum, tensorboard
+  * PyTorch, TensorFlow, tensorboard
 
 
 * **Machine Learning** 
@@ -81,15 +84,15 @@ redirect_from:
 
 
 ## Awards and Honors
-* **Full Scholarship for Undergraduate Studies**
-  * awarded by Nepal Government after securing 11th rank in highly competitive entrance examination in Pulchowk Campus (4%
-  acceptance rate) among 11000 examinees
+* **Scholarship/Assistantship for Ph.D.**
+  * received merit based scholarship at RIT to pursue Ph.D. in computing and information sciences
 
+* **Full Scholarship for Undergraduate Studies**
+  * awarded by Nepal Government after securing 11th rank in entrance examination by Tribhuvan University (4%
+acceptance rate)
 
 * **Fusemachines AI Fellowship**
   * shortlisted for fellowship after a competitive examination and an interview and got enrolled into the micro-masters program
-  * participated in discussion sessions on Linear Algebra, Probability, and ML with the industry experts
-
 
 * **FuseAI Scholarship**
   * selected for scholarship to study the FuseAI course which provided extensive exposure to ML and data science libraries
