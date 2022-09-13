@@ -26,4 +26,6 @@ You can access my [CV](https://jeevan11vision.github.io/files/CV.pdf).
 * (Jan 2021) Taught an undergraduate course "Mathematics for AI", containing Linear Algebra, Multivariate Calculus, Probability, Statistics and Information Theory
 * (Jan 2021) Received promotion to Machine Learning Engineer Level II at Fusemachines
 * (Sep 2019) Joined Fusemachines as a Machine Learning Engineer Associate
+* (Sep 2019) Graduated with Bachelor's in Computer Engineering from Pulchowk Campus, IOE, Tribhuvan University
 * (Jan 2019) Joined Leapfrog Tech. as AI intern for 6 months
+* (Jan 2018) Selected for Fusemachines AI Fellowship
