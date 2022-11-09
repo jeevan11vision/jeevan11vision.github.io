@@ -13,7 +13,7 @@ name                     : &name "Jeevan Thapa"
 description              : &description "Computer Science Ph.D. Student"
 url                      : https://jeevan11vision.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "jeevan11vision/jeevan11vision.github.io"
+repository               : "thapa-jeevan/thapa-jeevan.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "jeevan4812"
+  github           : "thapa-jeevan"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "jeevan11vision"
+  linkedin         : "thapa-jeevan"
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "jeevan4812"
+  twitter          : "thapa_jeevan_sm"
   vine             :
   weibo            :
   xing             :
