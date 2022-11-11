@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 ---
-You can access my [CV](https://jeevan11vision.github.io/files/CV.pdf).
+You can access my [CV](https://thapa-jeevan.github.io/files/CV.pdf).
 
 ---
 
