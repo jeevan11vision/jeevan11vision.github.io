@@ -15,7 +15,7 @@ author_profile: true
   deep learning models for four projects 
   * **fuse|ai Course creation** - collaborated in the design and creation of course materials (reading material, quiz,
   assignment, project) for Computer Vision, Natural Language Processing (BERT), and Time Series Analysis
-  • involved in taking interviews and trainings for new hires, and advisor for computer vision projects
+  * involved in taking interviews and trainings for new hires, and advisor for computer vision projects
 
 ### "Mathematics for AI" Instructor 
   * fuseAI, Herald College, Kathmandu, Nepal (Jan 2021 — Jun 2021)  
