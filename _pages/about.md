@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-I am a first year Ph.D. student at Golisano College of Computing and Information Sciences, Rochester Institute of Technology, researching in the field of Statistical Machine Learning with [Dr. Rui Li](https://ruililuci.com//) at [Lab of Use-inspired Computational Intelligence (LUCI)](https://ruililuci.com//). 
+I am a second year Ph.D. student at Golisano College of Computing and Information Sciences, Rochester Institute of Technology, researching in the field of Statistical Machine Learning with [Dr. Rui Li](https://ruililuci.com//) at [Lab of Use-inspired Computational Intelligence (LUCI)](https://ruililuci.com//). 
 
 ### Research Interests
 * **Machine Learning**: Statistical Machine Learning, Self-Supervised Learning, Generative Modeling
