@@ -12,10 +12,10 @@ author_profile: true
 ### Machine Learning Engineer
   * [Fusemachines](https://fusemachines.com/),            Kathmandu, Nepal [Sep 2019 — Jun 2022]
   * Directed and collaborated on the design and implementation of machine learning architecture, and deploying deep learning models for four industry projects. 
-  * Contributed to the design and development of course materials for the [fuseai](https://fuse.ai/ai-programs/microdegree-specialization/) program, focusing on Computer Vision, Transformer-based Natural Language Processing, and Time Series Analysis.
+  * Contributed to the design and development of course materials for the [fuseAI](https://fuse.ai/ai-programs/microdegree-specialization/) program, focusing on Computer Vision, Transformer-based Natural Language Processing, and Time Series Analysis.
 
 ### "Mathematics for AI" Instructor 
-  * [fuseai](https://fuse.ai/ai-programs/) and [Herald College](https://heraldcollege.edu.np/), Kathmandu, Nepal [Jan 2021 — Jun 2021]
+  * [fuseAI](https://fuse.ai/ai-programs/) and [Herald College](https://heraldcollege.edu.np/), Kathmandu, Nepal [Jan 2021 — Jun 2021]
   * Instructed [undergraduate course](https://fuse.ai/ai-programs/foundations-in-artificial-intelligence/) covering fundamental mathematics for machine learning, including Linear Algebra, Calculus, Probability and Statistics, and Information Theory.
 
 ### AI Internship

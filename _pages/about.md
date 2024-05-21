@@ -22,7 +22,7 @@ Please, find my CV [here](https://thapa-jeevan.github.io/files/CV.pdf).
 ### News
 * (May 2024): Our paper entitled "Bayesian Adaptation of Network Depth and Width for Continual Learning" got accepted in **ICML** 2024 (27.5% acceptance rate).
 * (May 2023): Successfully defended and passed my Research Potential Assessment (RPA).
-* (Aug 2022): Joined RIT for PhD. in Computing and Information Sciences as a Graduate Research Assistant.
+* (Aug 2022): Joined RIT for Ph.D. in Computing and Information Sciences as a Graduate Research Assistant.
 * (Jan 2022): Promoted to Machine Learning Engineer Level III at Fusemachines.
 * (Jan 2021): Instructed an undergraduate course "Mathematics for AI", covering Linear Algebra, Multivariate Calculus, Probability, Statistics and Information Theory.
 * (Jan 2021): Received promotion to Machine Learning Engineer Level II at Fusemachines.
