@@ -29,4 +29,4 @@ Please, find my CV [here](https://thapa-jeevan.github.io/files/CV.pdf).
 * (Sep 2019): Joined Fusemachines as a Machine Learning Engineer Associate.
 * (Sep 2019): Graduated with Bachelor's in Computer Engineering from Pulchowk Campus, Tribhuvan University, Nepal.
 * (Jan 2019): Joined Leapfrog Technology as AI intern for 6 months.
-* (Jan 2018): Shortlisted for Fusemachines AI Fellowship and fuse|ai Scholarship.
+* (Jan 2018): Shortlisted for Fusemachines AI Fellowship and fuseAI Scholarship.
