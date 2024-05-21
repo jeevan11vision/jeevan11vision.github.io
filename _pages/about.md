@@ -19,7 +19,6 @@ I am a second year Ph.D. student at [Golisano College of Computing and Informati
 Please, find my CV [here](https://thapa-jeevan.github.io/files/CV.pdf).
 
 ---
-
 ### News
 * (May 2024): Our paper entitled "Bayesian Adaptation of Network Depth and Width for Continual Learning" got accepted in **ICML** 2024 (27.5% acceptance rate).
 * (May 2023): Successfully defended and passed my Research Potential Assessment (RPA).
