@@ -1,10 +1,9 @@
 ---
-title: "[Mathematics For AI](https://fusemachines.com/ai-education/for-engineers/)"
+title: "[Mathematics For AI](https://fuse.ai/ai-programs/foundations-in-artificial-intelligence/)"
 collection: teaching
 type: "Undergraduate course"
-venue: "Herald College, Computer Science"
+venue: "[fuseAI](https://fuse.ai/ai-programs/) and [Herald College](https://heraldcollege.edu.np/)"
 date: 01/01/2021
 location: "Kathmandu, Nepal"
 ---
-
-Taught a comprehensive foundation [Mathematics course for AI](https://fusemachines.com/ai-education/for-engineers/), covering Linear Algebra, Calculus, Probability and Statistics and Information Theory with several assignments and projects
+Instructed undergraduate course covering fundamental mathematics for machine learning, including Linear Algebra, Calculus, Probability and Statistics, and Information Theory.

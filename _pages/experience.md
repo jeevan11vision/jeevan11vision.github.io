@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ### Graduate Research Assistant  
-  * [Golisano College of Computing and Information Sciences](https://www.rit.edu/computing/), Rochester Institute of Technology [Aug 2022 — 2027 (Expected)] 
+  * [Golisano College of Computing and Information Sciences](https://www.rit.edu/computing/), Rochester Institute of Technology [Aug 2022 — 2027 (expected)] 
   * Researching in the field of Probabilistic Machine Learning at [Lab of Use-inspired Computational Intelligence](https://ruililuci.com//).
 
 ### Machine Learning Engineer
