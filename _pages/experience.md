@@ -7,12 +7,12 @@ author_profile: true
 
 ### Graduate Research Assistant  
   * [Golisano College of Computing and Information Sciences](https://www.rit.edu/computing/), Rochester Institute of Technology [Aug 2022 — 2027 (expected)] 
-  * Researching in the field of Probabilistic Machine Learning at [Lab of Use-inspired Computational Intelligence](https://ruililuci.com//).
+  * Researching in the field of Continual Learning at [Lab of Use-inspired Computational Intelligence](https://ruililuci.com//).
 
 ### Machine Learning Engineer
   * [Fusemachines](https://fusemachines.com/),            Kathmandu, Nepal [Sep 2019 — Jun 2022]
-  * Directed and collaborated on the design and implementation of machine learning architecture, and deploying deep learning models for four industry projects. 
-  * Contributed to the design and development of course materials for the [fuseAI](https://fuse.ai/ai-programs/microdegree-specialization/) program, focusing on Computer Vision, Transformer-based Natural Language Processing, and Time Series Analysis.
+  * Worked on the design of machine learning pipeline and implementation of deep learning models for four industry projects. 
+  * Developed course materials for Fusemachines microdegree, [fuseAI](https://fuse.ai/ai-programs/microdegree-specialization/) program, focusing on Computer Vision, Transformer-based Natural Language Processing, and Time Series Analysis.
 
 ### "Mathematics for AI" Instructor 
   * [fuseAI](https://fuse.ai/ai-programs/) and [Herald College](https://heraldcollege.edu.np/), Kathmandu, Nepal [Jan 2021 — Jun 2021]
@@ -20,5 +20,5 @@ author_profile: true
 
 ### AI Internship
   * [Leapfrog Technology](https://www.lftechnology.com/), Kathmandu, Nepal [Jan 2019 to Jun 2019]
-  * Acquired proficiency in license plate localization using various standard CNN architectures with diverse loss functions.
-  * Received training in constructing a face recognition system encompassing face detection, point-based face-alignment, face-embedding with Siamese network, and KNN classifier.
+  * Worked in license plate localization with standard convolutional neural networks and different loss functions.
+  * Trained to build a face recognition system with face detection, point-based face alignment, face embedding model, and nearest-neighbor classifier.
