@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-I am a second year Ph.D. student at [Golisano College of Computing and Information Sciences](https://www.rit.edu/computing/) in [Rochester Institute of Technology (RIT)](https://www.rit.edu/). I am advised by [Dr. Rui Li](https://ruililuci.com//) at the [Lab of Use-inspired Computational Intelligence (LUCI)](https://ruililuci.com//). I am currently researching in the field of Continual Learning. Before this, I spent 2.7 years as a Machine Learning Engineer at [Fusemachines](https://fusemachines.com/) in Kathmandu, Nepal. 
+I am a third year Ph.D. student at [Golisano College of Computing and Information Sciences](https://www.rit.edu/computing/) in [Rochester Institute of Technology (RIT)](https://www.rit.edu/). I am advised by [Dr. Rui Li](https://ruililuci.com//) at the [Lab of Use-inspired Computational Intelligence (LUCI)](https://ruililuci.com//). I am currently researching in the field of Continual Learning. Before this, I spent 2.7 years as a Machine Learning Engineer at [Fusemachines](https://fusemachines.com/) in Kathmandu, Nepal. 
 
 ### Research Interests
 * **Machine Learning**: Continual Learning, Test-Time Adaptation, Federated Continual Learning
