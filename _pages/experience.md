@@ -7,7 +7,7 @@ author_profile: true
 
 ### Graduate Research Assistant  
   * [Golisano College of Computing and Information Sciences](https://www.rit.edu/computing/), Rochester Institute of Technology [Aug 2022 — 2027 (expected)] 
-  * Researching in the field of Continual Learning at [Lab of Use-inspired Computational Intelligence](https://ruililuci.com//).
+  * Researching in the field of Continual Learning and Test Time Adaptation at [Lab of Use-inspired Computational Intelligence](https://ruililuci.com//).
 
 ### Machine Learning Engineer
   * [Fusemachines](https://fusemachines.com/),            Kathmandu, Nepal [Sep 2019 — Jun 2022]
