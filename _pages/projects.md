@@ -5,6 +5,9 @@ permalink: /projects/
 author_profile: true
 ---
 
+### Bayesian Network Structure Adaptation for Continual Learning
+- Developed a continual structure adaptation framework that integrates beta-Bernoulli processes for structure inference within the sequential Bayes framework, enabling dynamic evolution of both network depth and width in continual learning scenarios.
+
 ###  Human Trafficking Recognition from Sex Worker Ads and Inter-Ad Matching, Fusemachines
 - Served as Team Lead, overseeing the design of the machine learning pipeline and setting up the data annotation process.
 - Implemented models for image-based and text-based trafficking recognition, contrastive loss-based image search, face-based person identification, and NER-based social handle extraction for inter-ad matching.
