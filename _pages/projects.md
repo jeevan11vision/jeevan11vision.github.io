@@ -7,6 +7,7 @@ author_profile: true
 
 ### Bayesian Network Structure Adaptation for Continual Learning
 - Developed a continual structure adaptation framework that integrates beta-Bernoulli processes for structure inference within the sequential Bayes framework, enabling dynamic evolution of both network depth and width in continual learning scenarios.
+- [Paper](https://openreview.net/pdf?id=c9HddKGiYk) published in ICML 2024.
 
 ###  Human Trafficking Recognition from Sex Worker Ads and Inter-Ad Matching, Fusemachines
 - Served as Team Lead, overseeing the design of the machine learning pipeline and setting up the data annotation process.
@@ -22,6 +23,6 @@ author_profile: true
 ### Session-based Network Intrusion Detection System, Fusemachines
 - Performed a feasibility study on utilizing AutoEncoder-based semi-supervised learning for network anomaly detection, leveraging session data extracted from pcap files.
 
-### Nepali License Plate Recognition, Final Year Undergraduate Project
-- Developed a license plate recognition system, tailored for Nepali license plates, with three key stages: vehicle detection, license plate localization, and Nepali character recognition.
-- Created a license plate localization dataset by annotating Nepali vehicle images, alongside building a Nepali character recognition dataset using Devanagari fonts.
+### Nepalese License Plate Recognition, Final Year Undergraduate Project
+- Developed a license plate recognition system, tailored for Nepalese license plates, with three key stages: vehicle detection, license plate localization, and Nepalese character recognition.
+- Created a license plate localization dataset by annotating Nepalese vehicle images, alongside building a Nepalese character recognition dataset using Devanagari fonts.
