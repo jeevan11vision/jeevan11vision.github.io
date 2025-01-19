@@ -1,7 +1,7 @@
 ---
 title: "OpenAI DALL-E"
 collection: talks
-type: "Talk"
+type: "Lecture, Course: CISC-807 Teaching Skills Workshop"
 permalink: /talks/dalle
 venue: "GCCIS, Rochester Institute of Technology"
 date: 2022-09-30
